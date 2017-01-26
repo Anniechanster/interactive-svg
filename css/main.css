@@ -32,10 +32,10 @@
 
 #bear:hover #left-ear {
   transform: translateY(-10px);
-  transition: ear .5s linear infinite;
+  transition: ear .5s linear;
 }
 
 #bear:hover #right-ear {
   transform: translateY(-10px);
-  transition: ear .5s linear infinite;
+  transition: ear .5s linear;
 }
